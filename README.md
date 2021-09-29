@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://bit.ly/3lC8I7t"><img src="https://www.linkpicture.com/q/LPic614d2ed1210cf676708793.png" alt="google-font" border="0"></a>
+<a href="https://bit.ly/3lC8I7t"><img src="https://www.linkpicture.com/q/abuop.jpg" alt="google-font" border="0"></a>
 
   # <u> SETUP <u>
   
@@ -8,7 +8,7 @@
 
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://bit.ly/3hrN7gU)
      
-<a href="https://chat.whatsapp.com/ClnLdmPpRh1BjtAY86njhN"><img src="https://www.linkpicture.com/q/LPic614d2f8eed9fe797753793.png" alt="Join our group" height="25" width="500" border="0"></a>
+<a href="https://chat.whatsapp.com/Bd4rkaPhQOQHCu6LSHD4FL"><img src="https://www.linkpicture.com/q/LPic614d2f8eed9fe797753793.png" alt="Join our group" height="25" width="500" border="0"></a>
   
   </p>
   
@@ -19,21 +19,21 @@
 
 <div align="center">
   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=F7001E&size=25&lines=Raganork+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+SouravKL11)](https://bit.ly/3lC8I7t)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=F7001E&size=25&lines=ABU-SIRE-+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+ABUOP)](https://bit.ly/3lC8I7t)
 
 
-  <a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="NL.png" height="400" width="450" /></a>
+  <a href="https://chat.whatsapp.com/Bd4rkaPhQOQHCu6LSHD4FL" target="blank"><img align="center" src="NL.png" height="400" width="450" /></a>
 </p>
   
   <p align="center">
-<a href="#"><img title="Raganork" src="https://img.shields.io/badge/Raganork-green?colorA=ff0000&colorB=ff0000&style=for-the-badge"></a>
+<a href="#"><img title="ABU-SIR-BOT" src="https://img.shields.io/badge/ABU-SIR-BOT-green?colorA=ff0000&colorB=ff0000&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/souravkl11"><img title="Author" src="https://img.shields.io/badge/Author-souravkl11-raganork/Raganork?color=000000&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Abuop"><img title="Author" src="https://img.shields.io/badge/Author-Abuop-ABU-SIRE-BOT/ABU-SIR-BOT?color=000000&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/souravkl11">souravkl11</a> to make it public
+Project created by <a href="https://github.com/Abuop">Abuop</a> to make it public
     <br>
        | © |
         Reserved |
@@ -43,21 +43,21 @@ Project created by <a href="https://github.com/souravkl11">souravkl11</a> to mak
 ----
 
   <p align="center">
-  <a href="httsp://github.com/souravkl11/Raganork">
-    <img src="https://img.shields.io/github/repo-size/souravkl11/Raganork?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/Abuop/ABU-SIR-BOT">
+    <img src="https://img.shields.io/github/repo-size/Abuop/ABU-SIRE-BOT?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/souravkl11/followers"><img title="Followers" src="https://img.shields.io/github/followers/souravkl11?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/souravkl11/Raganork/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/souravkl11/Raganork?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/souravkl11/Raganork/network/members"><img title="Forks" src="https://img.shields.io/github/forks/souravkl11/Raganork?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Abuop/followers"><img title="Followers" src="https://img.shields.io/github/followers/Abuop?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Abuop/ABU-SIR-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Abuop/ABU-SIR-BOT?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Abuop/ABU-SIR-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Abuop/ABU-SIR-BOT?color=f7df1e&style=flat-square"></a>
 
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/sourav-mp4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://chat.whatsapp.com/Bd4rkaPhQOQHCu6LSHD4FL" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
-<a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="https://i.ytimg.com/vi/iRLphwWvxrs/maxresdefault.jpg" height="180" width="300" /></a>
+<a href="https://chat.whatsapp.com/Bd4rkaPhQOQHCu6LSHD4FL" target="blank"><img align="center" src="https://i.ytimg.com/vi/iRLphwWvxrs/maxresdefault.jpg" height="180" width="300" /></a>
 </p>
   
 <div align="center">
@@ -68,7 +68,7 @@ Project created by <a href="https://github.com/souravkl11">souravkl11</a> to mak
 <br>
   <div align="center">
     
-  [![join](https://opportunitiesforyoungkenyans.co.ke/wp-content/uploads/2020/05/images.png-whatsapp.png)](https://chat.whatsapp.com/ClnLdmPpRh1BjtAY86njhN)
+  [![join](https://opportunitiesforyoungkenyans.co.ke/wp-content/uploads/2020/05/images.png-whatsapp.png)](https://chat.whatsapp.com/Bd4rkaPhQOQHCu6LSHD4FL)
 
 
     
@@ -89,7 +89,7 @@ Project created by <a href="https://github.com/souravkl11">souravkl11</a> to mak
 <br>
 <br >
 
-[![SOURAVKL11](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
+[![ABUOP](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
    
 
 
@@ -98,7 +98,7 @@ Project created by <a href="https://github.com/souravkl11">souravkl11</a> to mak
 യൂസർബോട്ട് കാരണം; നിങ്ങളുടെ WhatsApp അക്കൗണ്ട് നിരോധിച്ചേക്കാം.
 ഇതൊരു ഓപ്പൺ സോഴ്സ് പ്രോജക്റ്റാണ്, നിങ്ങൾ ചെയ്യുന്ന എല്ലാത്തിനും നിങ്ങൾ ഉത്തരവാദിയാണ്.
 തീർച്ചയായും, Raganork Developer ഉത്തരവാദിത്തം ഏറ്റെടുക്കുന്നില്ല.
-Raganork സ്ഥാപിക്കുന്നതിലൂടെ, നിങ്ങൾ ഈ ഉത്തരവാദിത്തങ്ങൾ സ്വീകരിച്ചതായി കണക്കാക്കപ്പെടുന്നു.
+ABU-SIR-BOTസ്ഥാപിക്കുന്നതിലൂടെ, നിങ്ങൾ ഈ ഉത്തരവാദിത്തങ്ങൾ സ്വീകരിച്ചതായി കണക്കാക്കപ്പെടുന്നു.
 വ്യാജ നമ്പറുകൾ ഉപയോഗിച്ച് ഉപയോഗിക്കാൻ ശ്രമിക്കുക.
 ```
 
@@ -111,9 +111,9 @@ Raganork സ്ഥാപിക്കുന്നതിലൂടെ, നിങ്
 ## Developers
   <div align="center">
     
-  [![souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![Abuop](https://github.com/Abuop.png?size=100)](https://github.com/Abuop) 
 ----|
-   [Sourav Kalathingal](https://github.com/souravkl11) 
+   [Sourav Kalathingal](https://github.com/Abuop) 
 Base, Bug Fixes, Modules
   </div>
    
